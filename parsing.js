@@ -21,4 +21,3 @@ function extract_usernames(doc) {
     console.log(data[0]['children'][0].data)
   })
 }
-
